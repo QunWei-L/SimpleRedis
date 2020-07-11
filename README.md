@@ -12,6 +12,10 @@ A simple redis-like database, written in Golang
 1. command: zset
 2. Persistence: Redis Database File (RDB)
 
+## Reference:
+1. Redis
+2. Godis
+3. Codis
 
 # Chinese version / 中文版
 
@@ -28,4 +32,7 @@ A simple redis-like database, written in Golang
 1. 命令: zset
 2. 持久化: Redis Database File (RDB)
 
-
+## 参考资料:
+1. Redis
+2. Godis
+3. Codis
